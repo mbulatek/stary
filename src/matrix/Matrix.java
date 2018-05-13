@@ -4,12 +4,17 @@ import java.util.HashSet;
 
 public class Matrix {
 	int						size;
-	public int[][]					data;
+	public int[][]			data;
 	static HashSet<Integer> powersOfTwo;	
 	
 	public Matrix(int size) {
 		this.size = size;
+		
 		data = new int[size][size];
+		
+		/*
+		 * 
+		 */
 		powersOfTwo = new HashSet<Integer>();
 		powersOfTwo.add(1);
 		powersOfTwo.add(2);
@@ -44,7 +49,7 @@ public class Matrix {
 		 * result.set(i, j, value);
 		 */
 		
-		dupa
+
 		
 		
 		return result;

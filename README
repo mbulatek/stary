@@ -1,0 +1,11 @@
+
+WRZUCENIE NA SERWER:
+	1. Save All
+	2. Prawym na projekt w zak³adce "Project Explorer"
+	3. Team -> Add to Index
+	4. Prawym na projekt w zak³adce "Project Explorer"
+	5. Team -> Commit...
+	6. W dolnym oknie pojawi siê zak³adka "Git Staging"
+	7. Wype³niasz pole "Commit Message"
+	8. Guzik "Commit and Push..."
+	9. Wpisujesz has³o do certyfikatu: plasten33
