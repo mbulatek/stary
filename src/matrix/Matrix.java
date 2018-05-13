@@ -44,6 +44,7 @@ public class Matrix {
 		 * result.set(i, j, value);
 		 */
 		
+		dupa
 		
 		
 		return result;
